@@ -1,0 +1,2 @@
+rootProject.name = "Monefy"
+include ':app'

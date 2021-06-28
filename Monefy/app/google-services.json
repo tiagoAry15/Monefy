@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "122407048157",
+    "firebase_url": "https://monefy-b661f-default-rtdb.firebaseio.com",
+    "project_id": "monefy-b661f",
+    "storage_bucket": "monefy-b661f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122407048157:android:91cd195a57e6397a8a5c34",
+        "android_client_info": {
+          "package_name": "com.example.monefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122407048157-4i3vvbd7qv5mfo86rdl5vi329dm285sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYIna3Lrx5caIYn5mGOVE0ccXSBw1Qgbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122407048157-4i3vvbd7qv5mfo86rdl5vi329dm285sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
